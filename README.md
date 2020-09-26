@@ -15,5 +15,5 @@ Hello, I'm **Benjamin Haeberli**, a web developer based in Switzerland. I'm curr
 ## Trivia
 
 -   Working at <a href="https://925.ch">925</a> as Lead Developer 💼
--   Drummer for two metal bands called <a href0="https://akshara.ch/">Akshara</a> & <a href0="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
--   Organizing shows & booking for Sunday Fog 📣
+-   Drummer for two metal bands called <a href="https://akshara.ch/">Akshara</a> & <a href="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
+-   Organizing shows & booking for <a href="https://sundayfog.ch/">Sunday Fog</a> 📣
