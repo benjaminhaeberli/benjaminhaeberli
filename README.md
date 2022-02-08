@@ -4,9 +4,9 @@ I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been wor
 
 📫 Do not hesitate to get in touch with me on <a href="https://www.linkedin.com/in/benjaminhaeberli/">LinkedIn</a> or by email : <a href="mailto:hello@benjaminhaeberli.ch">hello@benjaminhaeberli.ch</a>
 
+<br>
 
-
-## Skills
+### Skills
 
 - Integration: HTML5, CSS3, Javascript, JQuery, Laravel Mix, GULP, SASS, LESS, Bootstrap
 - Development : PHP7, WordPress, Laravel, Vue.js, React.js, Alpine.js, REST API, SQL
@@ -24,7 +24,7 @@ I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been wor
 [#wordpress](https://wordpress.org/)
 
 
-## Trivia
+### Trivia
 
 -   Driven by a more ecological and ethical use of technology 🌱
 -   Drummer for two metal bands called <a href="https://akshara.ch/">Akshara</a> & <a href="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
