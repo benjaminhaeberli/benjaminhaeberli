@@ -1,9 +1,10 @@
-# Hi 👋 How are you ?
-
+### Hi there ! 👀
 
 I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been working for more than 4 years on back-end and front-end projects and I am now focusing on three pillars that are important to me: performance, ethics & ecology 🌱
 
 📫 Do not hesitate to get in touch with me on <a href="https://www.linkedin.com/in/benjaminhaeberli/">LinkedIn</a> or by email : <a href="mailto:hello@benjaminhaeberli.ch">hello@benjaminhaeberli.ch</a>
+
+
 
 ## Skills
 
