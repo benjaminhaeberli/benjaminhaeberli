@@ -1,16 +1,27 @@
-# Welcome 👋 How are you ?
+# Hi 👋 How are you ?
 
-<p>
-  <img src="https://img.shields.io/badge/Laravel-F05340.svg?style=flat-square" alt="Laravel">
-  <img src="https://img.shields.io/badge/WordPress-00a0d2.svg?style=flat-square" alt="WordPress">
-  <img src="https://img.shields.io/badge/WooCommerce-96588a.svg?style=flat-square" alt="WooCommerce">
-  <img src="https://img.shields.io/badge/React.js-61DBFB.svg?style=flat-square" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-42b883.svg?style=flat-square" alt="Vue.js">
-</p>
 
-Hello, I'm **Benjamin Haeberli**, a freelance web developer based in Switzerland. I have been working for more than 3 years on back-end and front-end projects, using technologies like Laravel, Vue.js & Wordpress. Passionate about technology, I am constantly looking for new experiences to expand my skills and accompany you in this wonderful world that is digital.
+I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been working for more than 4 years on back-end and front-end projects and I am now focusing on three pillars that are important to me: performance, ethics & ecology 🌱
 
 📫 Do not hesitate to get in touch with me on <a href="https://www.linkedin.com/in/benjaminhaeberli/">LinkedIn</a> or by email : <a href="mailto:hello@benjaminhaeberli.ch">hello@benjaminhaeberli.ch</a>
+
+## Skills
+
+- Integration: HTML5, CSS3, Javascript, JQuery, Laravel Mix, GULP, SASS, LESS, Bootstrap
+- Development : PHP7, WordPress, Laravel, Vue.js, React.js, Alpine.js, REST API, SQL
+- CMS : WordPress, WooCommerce, Kirby
+- Server management: Domain name, Hosting, SSL, HTTPS
+- Automation: Zapier, Integromat, n8n
+- Continuous Integration (CI/CD): GitHub, GitLab & Buddy
+- SEO: Google Search Console, Google Analytics, Ubbersuggest, Plausible
+- Digital project management (consulting, audit, design, needs assessment, specifications, planning)
+
+⭐ Favorites : 
+[#laravel](https://laravel.com/)
+[#vue.js](https://vuejs.org/)
+[#alpine.js](https://alpinejs.dev/)
+[#wordpress](https://wordpress.org/)
+
 
 ## Trivia
 
