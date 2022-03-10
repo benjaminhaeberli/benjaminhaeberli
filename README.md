@@ -9,10 +9,10 @@ I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been wor
 ### Skills
 
 - Integration: HTML5, CSS3, Javascript, JQuery, Laravel Mix, GULP, SASS, LESS, Bootstrap
-- Development : PHP7, WordPress, Laravel, Vue.js, React.js, Alpine.js, REST API, SQL
+- Development : PHP7, WordPress, Laravel, Vue.js, Alpine.js, API REST, SQL
 - CMS : WordPress, WooCommerce, Kirby
 - Server management: Domain name, Hosting, SSL, HTTPS
-- Automation: Zapier, Integromat, n8n
+- Automation: CRON, n8n
 - Continuous Integration (CI/CD): GitHub, GitLab & Buddy
 - SEO: Google Search Console, Google Analytics, Ubbersuggest, Plausible
 - Digital project management (consulting, audit, design, needs assessment, specifications, planning)
