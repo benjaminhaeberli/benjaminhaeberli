@@ -6,6 +6,9 @@ I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been wor
 
 <br>
 
+[![Top Langs](https://github-readme-stats-aqzqgych4-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Skills
 
 - Integration: HTML5, CSS3, Javascript, JQuery, Laravel Mix, GULP, SASS, LESS, Bootstrap
@@ -27,6 +30,6 @@ I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been wor
 ### Trivia
 
 -   Driven by a more ecological and ethical use of technology 🌱
--   Drummer for two metal bands called <a href="https://akshara.ch/">Akshara</a> & <a href="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
 -   Organizing shows & booking for <a href="https://sundayfog.ch/">Sunday Fog</a> 📣
+-   Drummer for two metal bands called <a href="https://akshara.ch/">Akshara</a> & <a href="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
 -   Passionate about video games and role playing games such as <a href="https://www.dndbeyond.com/">Dungeons and Dragons</a> 🎲
