@@ -4,15 +4,11 @@ I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been wor
 
 📫 Do not hesitate to get in touch with me on <a href="https://www.linkedin.com/in/benjaminhaeberli/">LinkedIn</a> or by email : <a href="mailto:hello@benjaminhaeberli.ch">hello@benjaminhaeberli.ch</a>
 
-<br>
-
-[![Top Langs](https://github-readme-stats-aqzqgych4-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Skills
 
 - Integration: HTML5, CSS3, Javascript, JQuery, Laravel Mix, GULP, SASS, LESS, Bootstrap
-- Development : PHP7, WordPress, Laravel, Vue.js, Alpine.js, API REST, SQL
+- Development : PHP8, WordPress, Laravel, Vue.js, Alpine.js, API REST, SQL
 - CMS : WordPress, WooCommerce, Kirby
 - Server management: Domain name, Hosting, SSL, HTTPS
 - Automation: CRON, n8n
@@ -25,6 +21,8 @@ I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been wor
 [#vue.js](https://vuejs.org/)
 [#alpine.js](https://alpinejs.dev/)
 [#wordpress](https://wordpress.org/)
+
+[![Top Langs](https://github-readme-stats-aqzqgych4-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Trivia
