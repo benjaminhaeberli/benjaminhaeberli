@@ -1,22 +1,22 @@
 ### Hi there ! 👀
 
-I'm a freelance PHP & JS developer based in Switzerland 🇨🇭 I have been working for more than 4 years on back-end and front-end projects and I am now focusing on three pillars that are important to me: performance, ethics & ecology 🌱
+I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been working for more than 4 years on back-end and front-end projects and I am now focusing on three pillars that are important to me: performance, ethics & ecology 🌱
 
 📫 Do not hesitate to get in touch with me on <a href="https://www.linkedin.com/in/benjaminhaeberli/">LinkedIn</a> or by email : <a href="mailto:hello@benjaminhaeberli.ch">hello@benjaminhaeberli.ch</a>
 
 
 ### Skills
 
-- Integration: HTML5, CSS3, Javascript, JQuery, Laravel Mix, GULP, SASS, LESS, Bootstrap
-- Development : PHP8, WordPress, Laravel, Vue.js, Alpine.js, API REST, SQL
-- CMS : WordPress, WooCommerce, Kirby
-- Server management: Domain name, Hosting, SSL, HTTPS
-- Automation: CRON, n8n
-- Continuous Integration (CI/CD): GitHub, GitLab & Buddy
-- SEO: Google Search Console, Google Analytics, Ubbersuggest, Plausible
+- Integration → HTML5, CSS3, JavaScript, SASS, LESS, Laravel Mix, GULP, Bootstrap
+- Development → PHP8, API, SQL, WordPress, Laravel, Vue.js, Alpine.js, JQuery
+- CMS → WordPress, WooCommerce, Kirby
+- Server management → Domain name, Hosting, SSL, HTTPS
+- Automation → CRON, n8n
+- Continuous Integration (CI/CD) → GitHub, GitLab & Buddy
+- SEO → Google Search Console, Ubbersuggest, Plausible
 - Digital project management (consulting, audit, design, needs assessment, specifications, planning)
 
-⭐ Favorites : 
+⭐ **Favorites** : 
 [#laravel](https://laravel.com/)
 [#vue.js](https://vuejs.org/)
 [#alpine.js](https://alpinejs.dev/)
