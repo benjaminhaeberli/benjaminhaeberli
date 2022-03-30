@@ -8,7 +8,7 @@ I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been w
 ### Skills
 
 - Integration → HTML5, CSS3, JavaScript, SASS, LESS, Laravel Mix, GULP, Bootstrap
-- Development → PHP8, API, SQL, WordPress, Laravel, Vue.js, Alpine.js, JQuery
+- Development → PHP8, SQL, WordPress, Laravel, Vue.js, Alpine.js, JQuery, API
 - CMS → WordPress, WooCommerce, Kirby
 - Server management → Domain name, Hosting, SSL, HTTPS
 - Automation → CRON, n8n
