@@ -17,10 +17,10 @@ I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been w
 - Digital project management (consulting, audit, design, needs assessment, specifications, planning)
 
 ⭐ **Favorites** : 
-[#laravel](https://laravel.com/)
-[#vue.js](https://vuejs.org/)
-[#alpine.js](https://alpinejs.dev/)
-[#wordpress](https://wordpress.org/)
+- [Laravel](https://laravel.com/)
+- [Alpine.js](https://alpinejs.dev/)
+- [Vue.js](https://vuejs.org/)
+- [WordPress](https://wordpress.org/)
 
 [![Top Langs](https://github-readme-stats-aqzqgych4-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
