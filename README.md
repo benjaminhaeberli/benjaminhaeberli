@@ -1,11 +1,11 @@
-### Hi there ! 👀
+## Hi there ! 👀
 
 I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been working for more than 4 years on back-end and front-end projects and I am now focusing on three pillars that are important to me: performance, ethics & ecology 🌱
 
 📫 Do not hesitate to get in touch with me on <a href="https://www.linkedin.com/in/benjaminhaeberli/">LinkedIn</a> or by email : <a href="mailto:hello@benjaminhaeberli.ch">hello@benjaminhaeberli.ch</a>
 
 
-### Skills
+## Skills
 
 - Integration → HTML5, CSS3, JavaScript, SASS, LESS, Laravel Mix, GULP, Bootstrap
 - Development → PHP8, SQL, WordPress, Laravel, Vue.js, Alpine.js, JQuery, API
@@ -25,7 +25,7 @@ I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been w
 [![Top Langs](https://github-readme-stats-aqzqgych4-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Trivia
+## Trivia
 
 -   Driven by a more ecological and ethical use of technology 🌱
 -   Volunteer for <a href="https://sundayfog.ch/">Sunday Fog</a> 📣
