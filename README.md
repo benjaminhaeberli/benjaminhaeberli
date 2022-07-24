@@ -22,7 +22,7 @@ I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been w
 - [Vue.js](https://vuejs.org/)
 - [WordPress](https://wordpress.org/)
 
-[![Top Langs](https://github-readme-stats-aqzqgych4-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-26tkjvnvd-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Trivia
