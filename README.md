@@ -7,6 +7,14 @@ I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been w
 
 ## Skills
 
+## Compétences
+
+| Back-end                                         	| Front-end                                            	| Outils                                                	| Pratiques                                                                      	|
+|--------------------------------------------------	|------------------------------------------------------	|-------------------------------------------------------	|--------------------------------------------------------------------------------	|
+| - **PHP**<br>- **Laravel**<br>- API REST<br>- SQL 	| - HTML5/CSS3<br>- JavaScript<br>- SASS<br>- LESS 	| - Git/Github/Gitlab<br>- Docker<br>- MySQL<br>- Redis 	| - Clean code<br>- A.TDD/BDD<br>- CI/CD<br>- UML/Merise 	|
+
+🚧 NEW SECTION UNDER CONSTRUCTION 🚧 
+
 - Integration → HTML5, CSS3, JavaScript, SASS, LESS, Laravel Mix, GULP, Bootstrap
 - Development → PHP8, SQL, WordPress, Laravel, Vue.js, Alpine.js, JQuery, API
 - CMS → WordPress, WooCommerce, Kirby
