@@ -4,16 +4,22 @@
 
 ## Skills 👋
 
-| Back-end 	| Front-end | Integration | Tools | Methodology |
+I almost exclusively use open source tools and am [affiliated with the hosting company Infomaniak](https://www.infomaniak.com/goto/fr/home?utm_term=62dbdda8347a1), known for its many [ethical](https://news.infomaniak.com/en/why-choose-infomaniak/) and [ecological](https://www.infomaniak.com/en/ecology) commitments. Having found more reliable alternatives, I no longer recommend some popular tools (_WordPress, WooCommerce, jQuery, GULP, Bootstrap, etc._) but can still use them if asked.
+
+| Back-End 	| Front-End | Infrastructure | Principles | Basics |
 | --- | --- | --- | --- | --- |
-| - **PHP ⭐** <br>- **Laravel ⭐**<br>- API REST<br>- SQL 	| - **Alpine.js ⭐**<br>- Vue.js<br>- SEO (on-site/on-page)	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Laravel Mix	| - Git/GitHub/GitLab<br>- Docker<br>- Buddy.works<br>- n8n 	| - SOLID, DRY<br>- CI/CD<br>- UML<br>- Testing 	|
+| - **PHP ⭐** <br>- **Laravel ⭐**<br>- API REST<br>- SQL 	| - **Alpine.js ⭐**<br>- **TailwindCSS ⭐**<br>- Nuxt.js · Vue.js<br>- SEO<sup>1</sup>	| - **Infomaniak ⭐**<br> - GitHub · GitLab<br>- Docker<br>- n8n 	| - **SOLID, DRY ❤️**<br>- CI/CD<br>- UML<br>- Testing<sup>1</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Laravel Mix	|
 
-And more :
-- **Various tools** → KirbyCMS — Directus — Notion.so — Google Search Console — Ubbersuggest — Plausible
-- **Digital project management** → Consulting, Audit, Needs assessment, Specifications, Planning
-- No longer recommanded → WordPress, WooCommerce, jQuery, GULP, Bootstrap
+- **CMS, SEO, Analytics** → KirbyCMS, Notion.so, Google Search Console, Ubbersuggest, Plausible
+- **Management** → Consulting, Audit, Needs assessment, Specifications, Planning
 
-I almost exclusively use open source tools and am [affiliated with the hosting company Infomaniak](https://www.infomaniak.com/goto/fr/home?utm_term=62dbdda8347a1), known for its many [ethical](https://news.infomaniak.com/en/why-choose-infomaniak/) and [ecological](https://www.infomaniak.com/en/ecology) commitments.
+<sup>1</sup> Technical side (on-site/on-page)</br>
+<sup>2</sup> Currently learning (A)TDD and DDD
+
+### Other tools I would like to try later 👇
+- OctoberCMS
+- Directus (CMS)
+- Sanity (CMS)
 
 ## Stats 
 [![Top Langs](https://github-readme-stats-26tkjvnvd-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
