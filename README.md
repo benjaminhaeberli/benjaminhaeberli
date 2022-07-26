@@ -21,7 +21,7 @@ I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been w
 - Server management → Domain name, Hosting, SSL, HTTPS
 - Automation → CRON, n8n
 - Continuous Integration (CI/CD) → GitHub, GitLab & Buddy
-- SEO → Google Search Console, Ubbersuggest, Plausible
+- SEO → Google Search Console, Ubersuggest, Plausible
 - Digital project management (consulting, audit, design, needs assessment, specifications, planning)
 
 ⭐ **Favorites** : 
