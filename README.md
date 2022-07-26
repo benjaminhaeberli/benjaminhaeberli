@@ -28,6 +28,6 @@ I'm a freelance full stack developer based in Switzerland 🇨🇭 I have been w
 ## Trivia
 
 -   Driven by a more ecological and ethical use of technology 🌱
--   Volunteer for <a href="https://sundayfog.ch/">Sunday Fog</a> 📣
--   Drummer for two metal bands called <a href="https://akshara.ch/">Akshara</a> & <a href="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
--   Passionate about video games and role playing games such as <a href="https://en.wikipedia.org/wiki/The_One_Ring_Roleplaying_Game">The One Ring</a> and <a href="https://www.dndbeyond.com/">DnD</a> 🎲
+-   Volunteer for a local music label → <a href="https://sundayfog.ch/">Sunday Fog</a> 📣
+-   Drummer for two metal bands → <a href="https://akshara.ch/">Akshara</a> and <a href="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
+-   Casual player of role-playing games such as <a href="https://en.wikipedia.org/wiki/The_One_Ring_Roleplaying_Game">The One Ring</a> and <a href="https://www.dndbeyond.com/">DnD</a> 🎲
