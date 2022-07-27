@@ -10,16 +10,15 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 | --- | --- | --- | --- | --- |
 | - **PHP ⭐** <br>- **Laravel ⭐**<br>- API REST<br>- SQL 	| - **Alpine.js ⭐**<br>- **TailwindCSS ⭐**<br>- Nuxt.js · Vue.js<br>- SEO<sup>1</sup>	| - **Infomaniak ⭐**<br> - GitHub · GitLab<br>- Docker<br>- n8n 	| - **SOLID, DRY ❤️**<br>- CI/CD<br>- UML<br>- Testing<sup>1</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Laravel Mix	|
 
-- **CMS, SEO, Analytics** → KirbyCMS, Notion.so, Google Search Console, Ubbersuggest, Plausible
+- **CMS, SEO, Analytics** → Kirby (CMS), Notion.so, Google Search Console, Ubersuggest, Plausible
 - **Management** → Consulting, Audit, Needs assessment, Specifications, Planning
 
 <sup>1</sup> Technical side (on-site/on-page)</br>
 <sup>2</sup> Currently learning (A)TDD and DDD
 
 ### Other tools I would like to try later 👇
-- OctoberCMS
-- Directus (CMS)
-- Sanity (CMS)
+- [Visual Editor by Boxraiser](https://boxraiser.github.io/visual-editor/) - JavaScript
+- [Directus (CMS)](https://directus.io/) - Node.js
 
 ## Stats 
 [![Top Langs](https://github-readme-stats-26tkjvnvd-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
