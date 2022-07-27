@@ -1,6 +1,6 @@
 # Welcome 👀
 
-### I'm a freelance ``software developer`` based in Switzerland (CH) I have been working for more than 4 years on back-end and front-end projects and I am now focusing on _three pillars_ that are important to me: ``performance``, ``ethics`` and ``ecology`` 🌱 
+### I'm a freelance ``software developer`` based in Switzerland (CH). I have been working for more than 4 years on back-end and front-end projects and I am now focusing on _three pillars_ that are important to me: ``performance``, ``ethics`` and ``ecology`` 🌱 
 
 ## Skills 👋
 
