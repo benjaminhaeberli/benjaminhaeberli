@@ -16,9 +16,14 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 <sup>1</sup> Technical side (on-site/on-page)</br>
 <sup>2</sup> Currently learning (A)TDD and DDD
 
-### Other tools I would like to try later 👇
+
+<details>
+    <summary><strong>Other tools I would like to try later 👀</strong></summary>
+    
 - [Visual Editor by Boxraiser](https://boxraiser.github.io/visual-editor/) - JavaScript
 - [Directus (CMS)](https://directus.io/) - Node.js
+
+</details>
 
 ## Stats 
 [![Top Langs](https://github-readme-stats-26tkjvnvd-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
