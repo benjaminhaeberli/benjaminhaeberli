@@ -8,9 +8,11 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 
 | Back-End 	| Front-End | Infrastructure | Principles | Basics |
 | --- | --- | --- | --- | --- |
-| - **PHP ⭐** <br>- **Laravel ⭐**<br>- API REST<br>- SQL 	| - **Alpine.js ⭐**<br>- **TailwindCSS ⭐**<br>- Nuxt.js · Vue.js<br>- SEO<sup>1</sup>	| - **Infomaniak ⭐**<br> - GitHub · GitLab<br>- Docker<br>- n8n 	| - **SOLID, DRY ❤️**<br>- CI/CD<br>- UML<br>- Testing<sup>1</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Laravel Mix	|
+| - **PHP ⭐** <br>- **Laravel ⭐**<br>- API REST<br>- SQL 	| - **Alpine.js ⭐**<br>- **TailwindCSS ⭐**<br>- Vue.js<br>- SEO<sup>1</sup>	| - **Infomaniak ⭐**<br> - GitHub · GitLab<br>- Docker<br>- n8n 	| - **SOLID, DRY ❤️**<br>- CI/CD<br>- UML<br>- Testing<sup>2</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Laravel Mix	|
 
-- **CMS, SEO, Analytics** → Kirby (CMS), Notion.so, Google Search Console, Ubersuggest, Plausible
+
+- **CMS + Static Generators Site** → [KirbyCMS](https://getkirby.com/), [Jigsaw](https://jigsaw.tighten.com/), [Hugo](https://gohugo.io/)
+- **Misc. tools** → Plausible, KeyCDN, Google Search Console, Ubersuggest
 - **Management** → Consulting, Audit, Needs assessment, Specifications, Planning
 
 <sup>1</sup> Technical side (on-site/on-page)</br>
@@ -20,9 +22,9 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 <details>
     <summary><strong>Other tools I would like to try later 👀</strong></summary>
     
-- [Visual Editor by Boxraiser](https://boxraiser.github.io/visual-editor/) - JavaScript
-- [Directus (CMS)](https://directus.io/) - Node.js
-
+- [Directus (CMS)](https://directus.io/) - TypeScript + Vue.js
+- [Appsmith (Admin panel builder)](https://www.appsmith.com/) - TypeScript
+- [Visual Editor by Boxraiser](https://boxraiser.github.io/visual-editor/) - TypeScript
 </details>
 
 ## Stats 
