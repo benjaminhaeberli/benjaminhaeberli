@@ -34,7 +34,6 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 ## Social
 - Email → [hello@benjaminhaeberli.ch](mailto:hello@benjaminhaeberli.ch) 📫
 - Portfolio → [benjaminhaeberli.ch](https://benjaminhaeberli.ch/) 📁
-- Twitter → [@1benjam1](https://twitter.com/1benjam1) 🐦
 - LinkedIn → [Benjamin Haeberli](https://www.linkedin.com/in/benjaminhaeberli/) 💼
 
 ## Trivia
