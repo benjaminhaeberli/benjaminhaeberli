@@ -29,7 +29,7 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 </details>
 
 ## Stats 
-[![Top Langs](https://github-readme-stats-26tkjvnvd-benjaminhaeberli.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social
 - Email → [hello@benjaminhaeberli.ch](mailto:hello@benjaminhaeberli.ch) 📫
