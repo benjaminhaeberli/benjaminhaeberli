@@ -8,7 +8,7 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 
 | Back-End 	| Front-End | Infrastructure | Principles | Basics |
 | --- | --- | --- | --- | --- |
-| - **PHP ⭐** <br>- **Laravel ⭐**<br>- API REST<br>- SQL 	| - **Alpine.js ⭐**<br>- **TailwindCSS ⭐**<br>- Vue.js<br>- SEO<sup>1</sup>	| - **Infomaniak ⭐**<br> - GitHub · GitLab<br>- Docker<br>- n8n 	| - **SOLID, DRY ❤️**<br>- CI/CD<br>- UML<br>- Testing<sup>2</sup>	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Laravel Mix	|
+| - **PHP ⭐** <br>- **Laravel ⭐**<br>- **SQL⭐** <br>- API REST	| - **Alpine.js ⭐**<br>- **TailwindCSS ⭐**<br>- Vue.js<br>- SEO<sup>1</sup>	| - **Infomaniak ⭐**<br> - GitHub · GitLab<br>- Docker<br>- n8n 	| - **SOLID, DRY ❤️**<br>- CI/CD<br>- UML<br>- Testing	| - HTML/CSS<br>- JavaScript<br>- SASS/LESS<br>- Vite	|
 
 
 - **CMS** → [KirbyCMS](https://getkirby.com/) ❤️
@@ -16,17 +16,6 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 - **Management** → Consulting, Audit, Needs assessment, Specifications, Planning
 
 <sup>1</sup> Technical side (on-site/on-page)</br>
-<sup>2</sup> Currently learning (A)TDD and DDD
-
-
-<details>
-    <summary><strong>Other tools I would like to try later 👀</strong></summary>
- 
-- [Directus (CMS)](https://directus.io/) - TypeScript + Vue.js
-- [11ty (SSG)](https://www.11ty.dev/)  - Golang
-- [Appsmith (Admin panel builder)](https://www.appsmith.com/) - TypeScript
-- [Visual Editor by Boxraiser](https://boxraiser.github.io/visual-editor/) - TypeScript
-</details>
 
 ## Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
