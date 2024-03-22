@@ -30,15 +30,3 @@ I almost exclusively use open source tools and am [affiliated with the hosting c
 
 ## Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminhaeberli&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
-## Social
-- Email → [hello@benjaminhaeberli.ch](mailto:hello@benjaminhaeberli.ch) 📫
-- Portfolio → [benjaminhaeberli.ch](https://benjaminhaeberli.ch/) 📁
-- LinkedIn → [Benjamin Haeberli](https://www.linkedin.com/in/benjaminhaeberli/) 💼
-
-## Trivia
-
--   Driven by a more ecological and ethical use of technology 🌱
--   Volunteer for a local music label → <a href="https://sundayfog.ch/">Sunday Fog</a> 📣
--   Drummer for two metal bands → <a href="https://akshara.ch/">Akshara</a> and <a href="https://www.facebook.com/sinequanonmetal">Sinequanon</a> 🥁
--   Casual player of role-playing games such as <a href="https://en.wikipedia.org/wiki/The_One_Ring_Roleplaying_Game">The One Ring</a> and <a href="https://www.dndbeyond.com/">DnD</a> 🎲
